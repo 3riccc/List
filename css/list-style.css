@@ -1,0 +1,14 @@
+body{
+	background-image: url(../img/back-left1.jpeg);
+	background-size: cover;
+	font-family: "Microsoft Yahei";
+
+}
+li{
+	list-style-type:none;
+	line-height: 40px;
+	height: 40px;
+	border-bottom: 1px solid gray;
+	vertical-align: center;
+	font-size: 20px;
+}
